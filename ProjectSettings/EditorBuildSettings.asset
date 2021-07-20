@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Juego.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Batalla.unity
+    guid: 3a6c1c06138fc5b4ca567411ced08ba8
+  - enabled: 1
+    path: Assets/Scenes/Victoria.unity
+    guid: 26e95910e60299846acc6c3d18557703
+  - enabled: 1
+    path: Assets/Scenes/Derrota.unity
+    guid: 5bdc1f323e8ee2046bc922be681fe41f
+  m_configObjects: {}
